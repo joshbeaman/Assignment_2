@@ -84,4 +84,4 @@ Using the provided parameters, the parallelogram with perspective projection sho
 ![](img/plane_perspective.png)
 
 Using the provided parameters, the sphere with perspective projection and colors should look like this
-![](img/shading.png)
+![](img/shading.png)# Assignment_2
